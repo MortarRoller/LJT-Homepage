@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. candidate in the [HKUST NLP Group](https://hkust.edu.hk/), supervised by [Professor Junxian He](https://github.com/jxhe). My research focuses on natural language processing and machine learning. My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
+I am a first-year Ph.D. candidate in the HKUST NLP Group, supervised by Professor Junxian He. My research focuses on natural language processing and machine learning. My research interests include LLM reasoning and reinforcement learning, hallucination in vision-language models (VLMs), and LLM truthfulness and interpretability.
 
 ## Academic Background
 
